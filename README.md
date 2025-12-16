@@ -1,5 +1,6 @@
 # Carles-Camps
 Sales is a team sport. I build GTM systems that scale without losing the human touch.
+
 Hi, I’m Carles 👋
 
 I build and scale go-to-market motions for B2B SaaS companies, with a focus on enterprise sales, outbound systems, and AI-enabled workflows.
