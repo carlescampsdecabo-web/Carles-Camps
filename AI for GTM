@@ -1,0 +1,88 @@
+# AI for GTM
+Practical ways I use AI to improve enterprise go-to-market execution.
+
+## Why this exists
+This repository documents how I use AI as a practical GTM tool — not as a buzzword.
+
+My focus is on:
+- improving discovery quality
+- scaling personalization without losing signal
+- increasing deal clarity and forecast accuracy
+- reducing manual work in enterprise sales motions
+
+These are real workflows and experiments used in live sales environments.
+
+---
+
+## Where AI actually helps in GTM
+
+### 1. Discovery preparation
+- Rapid account research before first calls
+- Hypothesis-driven discovery prompts
+- Mapping likely stakeholders and buying dynamics
+
+**Outcome:** sharper first conversations, less generic discovery.
+
+---
+
+### 2. ICP and segmentation refinement
+- Pattern analysis across won / lost deals
+- Translating qualitative feedback into ICP signals
+- Stress-testing assumptions on verticals and buyer personas
+
+**Outcome:** clearer ICP and better outbound focus.
+
+---
+
+### 3. Outbound personalization at scale
+- First-line and angle generation based on account context
+- Message variation by role and maturity stage
+- Avoiding template fatigue while keeping consistency
+
+**Outcome:** higher reply quality, not just higher volume.
+
+---
+
+### 4. Deal reviews and forecasting
+- MEDDPICC deal summaries
+- Risk and gap detection before forecast calls
+- Structured next-step clarity
+
+**Outcome:** better deal hygiene and predictability.
+
+---
+
+## Example prompts I actually use
+
+**Discovery prep**
+"Based on this company’s product, customers, and org size, what are the most likely operational and strategic pains related to [X]?"
+
+**Deal risk check**
+"Review this MEDDPICC summary and highlight the biggest risks or missing signals."
+
+**Outbound angle testing**
+"Generate three value hypotheses for a [role] at a [industry] company facing [context]."
+
+---
+
+## Tools & stack
+- ChatGPT / LLMs
+- Voiceflow (AI-driven onboarding & support)
+- CRM (Salesforce / HubSpot)
+- Notion for deal & ICP documentation
+
+AI is a co-pilot — judgment stays human.
+
+---
+
+## Operating principles
+- AI supports thinking, it doesn’t replace it
+- Output quality depends on question quality
+- Structure beats volume
+- Sales is a team sport
+
+---
+
+## Final note
+This repo is intentionally practical.
+If it’s not improving clarity, velocity, or signal — I don’t use it.
